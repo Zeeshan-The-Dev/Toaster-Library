@@ -9,7 +9,7 @@ import android.widget.TextView
 import androidx.core.content.ContextCompat
 
 
-class ToasterMessage {
+public class ToasterMessage {
 
     companion object {
 
